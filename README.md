@@ -1,0 +1,2 @@
+Tool Used- Advance Excel ( if function, date function, vlookup, array functions, pivot table, visualization etc.)
+This project aims to analyze and visualize consumer complaints using advanced Excel techniques and dashboard functionalities. The dataset provides valuable insights into consumer complaints across different companies, products, and states. Each complaint is accompanied by key details, including the issue type, submission method, and resolution time, allowing for a comprehensive understanding of the complaint handling process.
